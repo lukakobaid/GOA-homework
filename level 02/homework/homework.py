@@ -1,0 +1,6 @@
+print("saba chachanidze")
+print("ramaz cucqiridze")
+print("luka chinchaladze")
+print("temo qveladze")
+print("vako balabadashvili")
+print("giorgi balanwarashvili")

@@ -101,9 +101,5 @@ forward(1000)
 left(90)
 forward(2000)
 end_fill()
-
-
-
-
 exitonclick()
 
